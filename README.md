@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... Python,html,css,js.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... atchuth523@gmail.com
-- 
 
 <!---
 atchuuu/atchuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
